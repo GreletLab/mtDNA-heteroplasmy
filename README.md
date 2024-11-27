@@ -3,7 +3,7 @@
 
 ## Overview
 This package provides tools for analyzing mitochondrial DNA heteroplasmy from FASTQ files. 
-Installation time: <5minutes
+Installation time: < 5minutes. Run time < 1minute
 ## System Requirements
 - **Operating System**: Linux, macOS, or Windows
 - **Python Version**: Python 3.12.4
