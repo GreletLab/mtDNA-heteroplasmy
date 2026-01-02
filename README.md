@@ -45,4 +45,10 @@ This will process the sample data and generate an output file containing the het
 3. Options:
    - `--input`: Path to the folder containing the FASTQ files.
    - `--output`: Name of the file where results will be saved.
+## See related article
+https://doi.org/10.1038/s41586-025-09176-8
+Hoover, G., Gilbert, S., Curley, O., Obellianne, C., Lin, M. T., Hixson, W., Pierce, T. W., Andrews, J. F., Alexeyev, M. F., Ding, Y., Bu, P., Behbod, F., Medina, D., Chang, J. T., Ayala, G. & Grelet, S. 
+Nerve-to-cancer transfer of mitochondria during cancer metastasis. 
+Nature 644, 252–262 (2025)
+
 
